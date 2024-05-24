@@ -1,0 +1,12 @@
+C|Invisibility Cloak|Makes the wearer good at hiding from dirt|40|50|0|30
+C|Marigold Gloves|Protects the wearer's hands from grease and grime|15|10|0|20
+C|Apron of Blogharts|Protects the wearer from spillages and stains|30|50|20|20
+S|Dishwasher Potion|Allows the possessor to wash the dishes|20|10|10|0
+S|Greaseproof Spell|Makes the possessory temporarily greaseproof|15|25|0|20
+S|Folding Spell|Allows the possessor to fold a pile of clothes quickly|25|15|20|0
+H1L|Iron|Allows the holder to flatten a foe's mood and neatly press recently washed clothes|40|30|30|5
+H1L|Dustbuster|Allows the holder to suck a foe's spirit and easily hoover small and hard to reach places|55|45|40|10
+H1R|Feather Duster|Allows the holder to tickle foe and dust high places|30|15|20|15
+H1R|Magic Wand|Allows the holder to cast simple cleaning spells like Expelliarmuck|60|10|50|15
+H2|Broomstick|Allows the holder to fly and sweep the floor|80|100|50|10
+H2|Hoover of Blogharts|Allows the holder to temporality trap a foe's magic and hoover large areas|80|140|50|10

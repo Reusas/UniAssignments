@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+    integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+    crossorigin=""/>
+    <link rel ="stylesheet" href ="style.css">
+    </head>
+<body>
+<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+    integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
+    crossorigin="">
+</script>
+
+<div id ="map"> </div>
+
+
+<div id ="div1">
+<button id ='editButton' class = "buttons"><img src="editIcon.png"> Edit </button>
+</div>
+
+<div id = "editScreen"> 
+
+<button id ='button2' class = "buttons"> Post UFO!</button>
+Longitude:<input type = "text" class ='inputBox' id="lonInput" placeholder="-2.7038"> </input>
+Latitude:<input type = "text" class ='inputBox' id="latInput" placeholder="40.4168"> </input>
+Year:<input type = "text" class ='inputBox' id="yearInput" placeholder="2023"> </input>
+Cow Incident:<input type = "text" class ='inputBox' id="cowIncInput" placeholder="Yes"> </input>
+Crop Circle:<input type = "text" class ='inputBox' id="cropCircInput" placeholder="Yes"> </input>
+Alien Sight:<input type = "text" class ='inputBox' id="alienSigInput" placeholder="No"> </input>
+Abduction Event:<input type = "text" class ='inputBox' id="abdEvntInput" placeholder="Yes"> </input>
+<br>
+<button id ='button3'class = "buttons">Update UFO!</button>
+Longitude:<input type = "text" class ='inputBox' id="lonInput2" placeholder="-2.7038"> </input>
+Latitude:<input type = "text" class ='inputBox' id="latInput2" placeholder="40.4168"> </input>
+Year:<input type = "text" class ='inputBox' id="yearInput2" placeholder="2023"> </input>
+Cow Incident:<input type = "text" class ='inputBox' id="cowIncInput2" placeholder="Yes"> </input>
+Crop Circle:<input type = "text" class ='inputBox' id="cropCircInput2" placeholder="Yes"> </input>
+Alien Sight:<input type = "text" class ='inputBox' id="alienSigInput2" placeholder="No"> </input>
+Abduction Event:<input type = "text" class ='inputBox' id="abdEvntInput2" placeholder="Yes"> </input>
+<br>
+<button id ='button4' class = "buttons">Delete UFO!</button>
+Longitude:<input type = "text" class ='inputBox' id="lonInput3" placeholder="-2.7038"> </input>
+Latitude:<input type = "text" class ='inputBox' id="latInput3" placeholder="40.4168"> </input>
+</div>
+<div>
+<p id ="result"></p>
+</div>
+
+<script src="Map.js"> </script>
+<script src="Requests.js"> </script>
+<script src="main.js"> </script>
+
+
+</body>
+
+</html>

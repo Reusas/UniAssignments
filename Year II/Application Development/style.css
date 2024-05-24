@@ -1,0 +1,37 @@
+#map
+{
+    height: 580px;
+}
+#editScreen
+{
+    width: 100%;
+}
+.inputBox
+{
+    width:50px;
+}
+.buttons
+{
+    background: linear-gradient(to bottom, #007bff, #0062cc);
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+}
+.buttons:hover
+{
+    background: linear-gradient(to bottom, #0062cc, #007bff);
+    cursor: pointer;
+}
+
+#editScreen
+{
+    background-color: #f5f5f5;
+}
+
+#editButton img
+{
+    width:20px;
+    height:20px;
+}

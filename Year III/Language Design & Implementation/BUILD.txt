@@ -1,0 +1,8 @@
+This project does not require to be built. All of the source files need to be extracted from the zip in the same folder and python needs to be
+installed. The source files and the .wrm source code files all need to be in the same folder. The source files should be the following:
+lexeme.py
+lexxer.py
+main.py
+rpn.py
+variable.py
+If this is done the main.py file can be ran.

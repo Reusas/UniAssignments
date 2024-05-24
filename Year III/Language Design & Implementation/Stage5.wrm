@@ -1,0 +1,8 @@
+ifTest = 5
+if ifTest == 5 then 5+5
+
+if ifTest == 3 then 5+5
+
+ifTest = ifTest + 10
+
+if ifTest == 15 then 5+5

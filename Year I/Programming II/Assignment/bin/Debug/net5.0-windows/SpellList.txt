@@ -1,0 +1,1 @@
+S|Folding Spell|Allows the possessor to fold a pile of clothes quickly|25|15|20|0

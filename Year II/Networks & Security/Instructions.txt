@@ -1,0 +1,11 @@
+1 - Unzip folder.
+
+2- Open server.py from the server folder.
+
+3- Once the server says that it has started, open client.py from the client folder
+
+4- A prompt will appear asking to connect to the server host. You can leave this empty to connect to the same address that the server is launched on, or input a host address yourself.
+
+5 - Open more clients if you wish.
+
+6 - There is a /help command in the client to help you access different commands. Otherwise just type your text and press enter to send it.
